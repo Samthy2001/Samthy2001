@@ -1,163 +1,130 @@
-# Hi, I'm Samthy Shuaib 👋
-
-<img width="1983" height="793" alt="ChatGPT Image Sep 30, 2026, 12_06_42 PM" src="https://github.com/user-attachments/assets/b908e2ed-6c7f-441f-8d81-01436b53df86" />
+# Samthy Shuaib
+<img width="1983" height="793" alt="ChatGPT Image Sep 30, 2026, 12_09_40 PM" src="https://github.com/user-attachments/assets/249c199f-d419-48cc-aca8-b91cd64f4639" />
 
 
 ## Mechatronics Engineering Student | Robotics | Embedded Systems | Automation
 
-I am a Mechatronics Engineering student passionate about designing and developing intelligent systems by combining:
+I am a Mechatronics Engineering student interested in developing intelligent systems by integrating mechanical design, electronics, embedded programming, and robotics.
 
-- Mechanical Design
-- Electronics
-- Embedded Programming
-- Robotics
-- Automation
-- IoT Technologies
-  
-## Currently
+My work focuses on designing and building practical engineering solutions involving embedded systems, automation, robotics, and IoT technologies.
 
-🎓 Studying BEng (Hons) Mechatronics Engineering
-
-🔭 Working on:
-- Robotics projects
-- Embedded systems
-- Automation solutions
-
-🌱 Learning:
-- ROS 2
-- Computer Vision
-- Artificial Intelligence
-
+---
 
 ## About Me
 
-I enjoy building practical engineering solutions that connect the physical world with intelligent software.
+I am passionate about creating systems that connect the physical and digital worlds.
 
-My work focuses on developing systems involving:
+Areas of interest:
 
-🤖 Robotics and Autonomous Systems  
-⚙️ Embedded Systems  
-🔌 Sensor and Actuator Integration  
-🏭 Industrial Automation  
-🌐 Internet of Things (IoT)  
-🧠 Intelligent Engineering Solutions  
+- Robotics and autonomous systems
+- Embedded systems development
+- Sensor and actuator integration
+- Industrial automation
+- Internet of Things (IoT)
+- Intelligent engineering systems
 
+---
 
-## Featured Projects 🚀
+## Featured Projects
 
+### ClassBot Autonomous Delivery Robot
 
-## 🤖 ClassBot Autonomous Delivery Robot
+A ROS-based autonomous delivery robot developed to transport classroom materials between locations.
 
-A ROS-based autonomous delivery robot designed to transport classroom materials between locations.
-
-**Technologies:**
+Technologies:
 
 - ROS
 - Arduino Mega 2560
-- Python
 - C/C++
+- Python
 - Sensors
-- Robot Control
-
+- Robot control systems
 
 Repository:
 
-[ClassBot Autonomous Robot](https://github.com/Samthy2001/classbot-autonomous-robot)
+https://github.com/Samthy2001/classbot-autonomous-robot
 
 
 ---
 
+### Arduino 3D Scanner
 
-## 📡 Arduino 3D Scanner
+A low-cost embedded 3D scanning system developed using an Arduino Nano, IR distance sensing, stepper motor control, and SD card-based data acquisition.
 
-A low-cost embedded 3D scanning system developed using an Arduino Nano, IR distance sensing, stepper motor control, and SD card data logging.
-
-**Technologies:**
+Technologies:
 
 - Arduino Nano
 - IR Distance Sensor
 - NEMA 17 Stepper Motor
 - Embedded C/C++
-- 3D Data Acquisition
-
+- Sensor data acquisition
 
 Repository:
 
-[Arduino 3D Scanner](https://github.com/Samthy2001/arduino-3d-scanner)
+https://github.com/Samthy2001/arduino-3d-scanner
 
 
 ---
 
+### Pipe Inspection and Cleaning Robot
 
-## 🏭 Pipe Inspection and Cleaning Robot
+A robotic system developed for pipeline inspection and cleaning applications using embedded control and wireless communication.
 
-A semi-automatic robotic system developed for pipeline inspection and cleaning applications.
+Technologies:
 
-The system integrates wireless control, camera-based inspection, and motorized cleaning mechanisms.
-
-**Technologies:**
-
-- ESP32 CAM
 - ESP32
-- Embedded Systems
-- Motor Control
+- ESP32-CAM
+- Motor control
+- Embedded systems
 - Robotics
 
-
 Repository:
 
-[Pipe Inspection Cleaning Robot](https://github.com/Samthy2001/pipe-inspection-cleaning-robot)
+https://github.com/Samthy2001/pipe-inspection-cleaning-robot
 
 
 ---
 
+### Fabric Width Measuring System
 
-## 🧵 Fabric Width Measuring System
+An automated measurement system designed to measure fabric width using sensor-based detection and embedded control.
 
-An automated textile measurement system using infrared sensors and embedded control for fabric width monitoring.
+Technologies:
 
-**Technologies:**
-
-- Arduino Mega 2560
-- Infrared Sensors
-- Automation
-- Data Logging
-- Embedded Systems
-
+- Arduino Mega
+- Infrared sensors
+- Automation systems
+- Embedded programming
 
 Repository:
 
-[Fabric Width Measuring System](https://github.com/Samthy2001/fabric-width-measuring-system)
+https://github.com/Samthy2001/fabric-width-measuring-system
 
 
 ---
 
-
-## 💊 Automatic Medicine Dispenser
+### Automatic Medicine Dispenser
 
 A healthcare automation system designed for scheduled medicine dispensing using embedded control and IoT communication.
 
-**Technologies:**
+Technologies:
 
 - Arduino Mega 2560
 - RTC Module
-- Servo Motors
+- Servo motors
 - ESP8266
-- Embedded Systems
-
+- Embedded systems
 
 Repository:
 
-[Automatic Medicine Dispenser](https://github.com/Samthy2001/automatic-medicine-dispenser)
+https://github.com/Samthy2001/automatic-medicine-dispenser
 
 
 ---
 
+## Technical Skills
 
-# Technical Skills 🛠️
-
-
-## Programming
+### Programming
 
 - C
 - C++
@@ -165,64 +132,80 @@ Repository:
 - Embedded C
 
 
-## Embedded Systems
+### Embedded Systems
 
 - Arduino
 - ESP32
 - Sensors
 - Actuators
-- Motor Control
-- Circuit Integration
+- Motor control
+- Circuit integration
 
 
-## Robotics
+### Robotics
 
 - ROS
-- Autonomous Systems
-- Robot Control
-- Sensor Integration
+- Autonomous systems
+- Robot navigation
+- Sensor integration
 
 
-## Engineering
+### Engineering Tools
 
-- Mechanical Design
+- CAD Design
 - 3D Modelling
-- CAD
-- PLC & SCADA
-- Industrial Automation
+- PLC and SCADA
+- Industrial automation
 
 
-## Currently Learning 📚
+---
+
+## Currently Learning
 
 - ROS 2
 - Computer Vision
 - Artificial Intelligence
 - Machine Learning
 - Embedded Linux
-- Advanced Robotics
-
-
-# Engineering Interests
-
-🤖 Robotics  
-⚙️ Automation  
-🌐 IoT Systems  
-🧠 Intelligent Machines  
-🏭 Industrial Technology  
-
-
-# Connect With Me
-
-GitHub:
-
-https://github.com/Samthy2001
-
-
-LinkedIn:
-
-www.linkedin.com/in/samthy-shuaib-sr423222
+- Advanced robotics
 
 
 ---
 
-⭐ Building intelligent systems by integrating mechanics, electronics, and programming.
+## Engineering Interests
+
+- Robotics
+- Automation
+- Embedded intelligence
+- Industrial IoT
+- Smart systems
+
+
+---
+
+## Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Samthy2001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
+</a>
+<br> </br>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/samthy-shuaib-sr423222">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white" height="40">
+</a>
+
+</p>
+
+
+---
+
+## Contact
+
+GitHub:
+https://github.com/Samthy2001
+
+LinkedIn:
+https://www.linkedin.com/in/samthy-shuaib-sr423222
