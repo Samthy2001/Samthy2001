@@ -190,11 +190,11 @@ https://github.com/Samthy2001/automatic-medicine-dispenser
 <a href="https://github.com/Samthy2001">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
 </a>
-<br> </br>
+
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/samthy-shuaib-sr423222">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=black" height="40">
 </a>
 
 </p>
