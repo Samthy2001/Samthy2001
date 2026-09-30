@@ -13,6 +13,20 @@ I am a Mechatronics Engineering student passionate about designing and developin
 - Robotics
 - Automation
 - IoT Technologies
+  
+## Currently
+
+🎓 Studying BEng (Hons) Mechatronics Engineering
+
+🔭 Working on:
+- Robotics projects
+- Embedded systems
+- Automation solutions
+
+🌱 Learning:
+- ROS 2
+- Computer Vision
+- Artificial Intelligence
 
 
 ## About Me
