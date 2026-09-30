@@ -185,19 +185,17 @@ https://github.com/Samthy2001/automatic-medicine-dispenser
 
 ## Connect With Me
 
-<p align="left">
+<div align="left">
 
 <a href="https://github.com/Samthy2001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://www.linkedin.com/in/samthy-shuaib-sr423222">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
 
-</p>
+</div>
 
 
 ---
